@@ -2,8 +2,6 @@
 pragma solidity ^0.8.17;
 
 import "./Types.sol";
-// import console.sol;
-import "hardhat/console.sol";
 
 contract Ballot {
     // cadiidate list
